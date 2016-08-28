@@ -1,0 +1,19 @@
+
+
+////TEACHER PROJECT//////
+////Log in/////
+Need to be able to log into student or teacher account
+////Yin/////
+
+This half of the website will be the student log in, where people can go to see the postings that the teachers make
+
+Needs to have a system for reading teachers' lessons
+Needs to have a system for giving feedback (discussion?)
+
+////Yang/////
+ 
+This half of the website will be the teacher log in, where teachers can go to post lessons for their classes
+They can also discuss with eachother about epistemology.
+
+Needs to have a system for discussion
+Needs to have a system for reading teachers' lessons
